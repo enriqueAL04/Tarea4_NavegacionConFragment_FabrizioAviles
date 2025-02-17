@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tarea4_NavegacionConFragment</string>
+    <string name="soy_rojo">Soy rojo</string>
+    <string name="soy_azul">Soy azul</string>
+    <string name="soy_verde">Soy verde</string>
+</resources>
